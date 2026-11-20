@@ -49,6 +49,7 @@ The table below lists leading commercial alternative investment platforms sorted
 | **[Backstop Solutions](https://www.backstopsolutions.com/)** | **Acquired by ION Analytics** (~$19.1M ARR pre-acquisition) | Custom enterprise quote-based license model based on module count and AUM | No free tier or trial; sales consultation & demo required | Institutional portfolio management, CRM & research management for institutional investors |
 | **[InvestX](https://www.investx.com/)** | **Private** ($10M+ Revenue est.) | Management fees + performance fees (carried interest) per fund product | No free trial or software tier (regulated broker-dealer & fund manager platform) | Late-stage private equity & pre-IPO investment platform with reduced minimums |
 | **[Vestberry](https://www.vestberry.com/)** | **Private** ($2.4M–$5M+ Total Funding) | Custom subscription pricing based on portfolio size and managed AUM | **Free trial available upon request** (no permanent free tier; demo required) | AI-powered portfolio intelligence, analytics & LP reporting for VC/PE funds |
+| **[DDScore](https://www.ddscore.ai/)** | Not publicly disclosed | On-demand reports from €19 ([pricing](https://app.ddscore.ai/pricing)) | [Public example report](https://www.ddscore.ai/example-report/); investors can [request a free analysis](https://www.ddscore.ai/for-investor/) | First-pass diligence for private companies. Cross-checks pitch decks and supporting material against public sources, and identifies evidence gaps and follow-up questions. |
 
 ---
 
